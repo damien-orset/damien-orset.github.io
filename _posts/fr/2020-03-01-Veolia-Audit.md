@@ -10,11 +10,11 @@ date_start: 2020-03-01
 date_end: 2020-06-31
 description: Audit du datalake de Véolia Groupe
 technos:
-  - storage
-  - BigQuery
-  - dataflow
-  - pubSub
-  - functions
+  - GCP_Storage
+  - GCP_BigQuery
+  - GCP_Dataflow
+  - GCP_Pubsub
+  - GCP_Functions
 ---
 # Ma mission
 

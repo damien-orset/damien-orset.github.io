@@ -11,8 +11,8 @@ date_end: 2019-09-01
 description: Iso-functional migration of an application for viewing mail items and producing indicators on sorting machines
 technos:
   - Kafka
-  - kafka_streams
-  - springboot
+  - Kafka_Streams
+  - Springboot
   - ELK
   - Kibana
   - Openshift

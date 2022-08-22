@@ -11,8 +11,8 @@ date_end: 2019-09-01
 description: Migration iso-fonctionnelle d’une application de visualisation des plis et de production d’indicateurs sur les machines de tri
 technos:
   - Kafka
-  - kafka_streams
-  - springboot
+  - Kafka_Streams
+  - Springboot
   - ELK
   - Kibana
   - Openshift

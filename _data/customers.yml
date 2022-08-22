@@ -1,4 +1,4 @@
-- name: Acoss
+- name: ACOSS
   description: 
   vertical: Health
   date: 2020
@@ -18,7 +18,7 @@
   vertical: Retail
   date: 2018
   job: Cloud Architect
-- name: Capsauto
+- name: CapsAuto
   description: 
   vertical: Service
   date: 2011

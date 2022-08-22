@@ -87,12 +87,12 @@
       interest: 4
       active: True
       ref: VDM-move2cloud
-    - name: IaC, IaaS
+    - name: IaC_IaaS
       knowledge: 3
       interest: 3
       active: True
       ref: veolia
-    - name: ML-DL
+    - name: MLDL
       knowledge: 3
       interest: 4
       active: True
