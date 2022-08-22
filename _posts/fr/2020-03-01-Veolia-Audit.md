@@ -13,7 +13,7 @@ technos:
   - GCP_Storage
   - GCP_BigQuery
   - GCP_Dataflow
-  - GCP_Pubsub
+  - GCP_PubSub
   - GCP_Functions
 ---
 # Ma mission

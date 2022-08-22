@@ -12,9 +12,9 @@ description: >-
 <img class="avatar" style="float: left; margin: 20px 50px 15px 0px;" src="/assets/images/avatard.jpg"/>
 
 Discover in these different pages my background, my missions, my achievements and the contexts in which I have evolved throughout my career
-- [My skills](/en/skills)
-- [My different missions](/en/experiences)
-- [Clients with whom I have been able to work](/en/customers)
-- [Learn more about me](/en/aboutme)
+- [My skills](/us/skills)
+- [My different missions](/us/experiences)
+- [Clients with whom I have been able to work](/us/customers)
+- [Learn more about me](/us/aboutme)
 
 Thanks in advance for your interest!
