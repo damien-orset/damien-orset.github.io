@@ -1,0 +1,115 @@
+- name: Acoss
+  description: 
+  vertical: Health
+  date: 2020
+  job: Big Data Architect
+- name: Alinea
+  description: 
+  vertical: Retail
+  date: 2019
+  job: Cloud Architect
+- name: Atos
+  description: 
+  vertical: Service
+  date: 2017
+  job: Big Data Architect, Cloud Architect, AI Expert
+- name: Auchan
+  description: 
+  vertical: Retail
+  date: 2018
+  job: Cloud Architect
+- name: Capsauto
+  description: 
+  vertical: Service
+  date: 2011
+  job: ETL Consultant
+- name: CGI
+  description: 
+  vertical: Service
+  date: 2011
+  job: ETL Consultant
+- name: CNAF
+  description: 
+  vertical: Public
+  date: 2018
+  job: Big Data Architect
+- name: COJO
+  description: 
+  vertical: Sport
+  date: 2019
+  job: Big Data Architect
+- name: EFA
+  description: 
+  vertical: Finance
+  date: 2014
+  job: ETL Consultant
+- name: Enedis
+  description: 
+  vertical: Energy
+  date: 2016
+  job: Technical Expert
+- name: Euromaster
+  description: 
+  vertical: Automotive
+  date: 2012
+  job: Developer
+- name: FDJ
+  description: 
+  vertical: gaming
+  date: 2021
+  job: Big Data Architect
+- name: LaPoste
+  description: 
+  vertical: Public
+  date: 2019
+  job: Big Data Architect
+- name: LVMH
+  description: 
+  vertical: Luxury
+  date: 2018
+  job: Big Data Architect
+- name: MGEN
+  description: 
+  vertical: Health
+  date: 2019
+  job: Big Data Architect
+- name: Michelin
+  description: 
+  vertical: Automotive
+  date: 2015
+  job: ETL Consultant
+- name: NavalGroup
+  description: 
+  vertical: Defense
+  date: 2018
+  job: Big Data Architect
+- name: Polytech
+  description: 
+  vertical: School
+  date: 2022
+  job: MLOps Consultant
+- name: PSABanque
+  description: 
+  vertical: Finance
+  date: 2018
+  job: Big Data Architect
+- name: SNCF
+  description: 
+  vertical: Transport
+  date: 2012
+  job: ETL Consultant
+- name: Stelia
+  description: 
+  vertical: Transport
+  date: 2018
+  job: Cloud Architect
+- name: VDM
+  description: 
+  vertical: Public
+  date: 2021
+  job: Cloud Architect
+- name: Veolia
+  description: 
+  vertical: Energy
+  date: 2020
+  job: Cloud Architect

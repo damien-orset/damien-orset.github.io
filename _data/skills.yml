@@ -1,0 +1,149 @@
+- type: certification
+  list:
+  - name: Databricks Solution Architect Essentials
+    date: 2022
+    logo: Databrick_SAE_badge
+    accredible : https://credentials.databricks.com/6a90483c-b296-455d-a2c3-e7b735d13f11
+    description: blabla
+  - name: Google Professional Cloud Architect
+    date: 2019
+    logo: Google_Professional_Cloud_Architect
+    description: blabla
+    accredible : https://www.credential.net/9gqfc45x?key=a844c722f0c6aa47168b1c9ea803aa4ff2be0dae7cb9950179f3fc772d2edc5e
+  - name: Google Advance Solution Lab
+    date: 2018
+    logo: Google_ASL
+    description: blabla
+    accredible :
+- type: tech
+  list:
+    - name: Java
+      knowledge: 3
+      interest: 2
+      active: True
+      ref: cojo
+    - name: Python
+      knowledge: 4
+      interest: 4
+      active: True
+      ref : veolia
+    - name: SQL
+      knowledge: 4
+      interest: 4
+      active: True
+      ref: capsauto
+    - name: Bash
+      knowledge: 3
+      interest: 2
+      active: 
+      ref: codex
+    - name: Kubernetes
+      knowledge: 4
+      interest: 5
+      active: True
+      ref: VDM-move2cloud
+    - name: Hadoop
+      knowledge: 5
+      interest: 4
+      active: True
+      ref: enedis
+    - name: Spark
+      knowledge: 4
+      interest: 4
+      active: True
+      ref: VDM-move2cloud
+    - name: Kafka
+      knowledge: 4
+      interest: 4
+      active: True
+      ref: cojo
+    - name: ELK
+      knowledge: 3
+      interest: 3
+      active: True
+      ref: laposte-orest
+    - name: GCP
+      knowledge: 4
+      interest: 4
+      active: True
+      ref: veolia
+    - name: Azure
+      knowledge: 3
+      interest: 3
+      active: True
+      ref: lvmh
+    - name: AWS
+      knowledge: 2
+      interest: 4
+      active: True
+      ref: veolia
+    - name: OVH
+      knowledge: 3
+      interest: 4
+      active: True
+      ref: VDM-move2cloud
+    - name: CICD
+      knowledge: 3
+      interest: 4
+      active: True
+      ref: VDM-move2cloud
+    - name: IaC, IaaS
+      knowledge: 3
+      interest: 3
+      active: True
+      ref: veolia
+    - name: ML-DL
+      knowledge: 3
+      interest: 4
+      active: True
+      ref: ailab
+    - name: MLOps
+      knowledge: 4
+      interest: 5
+      active: True
+      ref: FDJ
+    - name: Talend
+      knowledge: 4
+      interest: 1
+      active: True
+      ref: capsauto
+    - name: PowerBI
+      knowledge: 2
+      interest: 1
+      active: True
+      ref: lvmh
+- type: global
+  list:
+    - name: Data Mesh
+      logo: 
+      knowledge: 4
+      interest: 5
+    - name: Big Data, Fast Data
+      logo: 
+      knowledge: 5
+      interest: 5
+    - name: Technical consulting
+      logo: 
+      knowledge: 4
+      interest: 4
+    - name: Training
+      logo: 
+      knowledge: 3
+      interest: 3
+    - name: Video Intelligence
+      logo: 
+      knowledge: 3
+      interest: 3
+- type: other
+  list:
+    - langages:
+      - name: fr
+        level: native
+      - name: us
+        level: fluent
+      - name: es
+        level: fluent
+    - scholar:
+      - title: Ingénieur generaliste
+        school: Ecole Centrale Marseille
+        date: 2011

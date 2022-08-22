@@ -1,0 +1,9 @@
+{% for entry in site.data.menu %}
+{% if entry.lang == page.lang %}
+  <div id="menu">
+  {% for title in entry.titles %}
+      <a href="{{ title.href }}" class="menu">{{ title.name }}</a>
+  {% endfor %}
+  </div>
+{% endif %}
+{% endfor %}

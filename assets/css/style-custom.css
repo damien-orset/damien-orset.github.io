@@ -1,0 +1,40 @@
+/* A floatting menu at the top left */
+#menu {
+    float: left;
+    position: absolute;
+    left: 50px;
+}
+.menu {
+    color: white;
+    padding-right: 20px;
+}
+
+/* Floatting flags at the top right for the langage choice */
+#lang {
+    float: right;
+    position: absolute;
+    right: 50px;
+}
+.skill_active_false {
+    background-color: lightgrey;
+}
+
+/* Lists bullet points are inside the div (so that floatting images can push them) */
+ul, ol {
+    list-style-position: inside;
+}
+
+/* Dark Theme */
+#dark_theme_btn {
+    float:right;
+    position: fixed;
+    top: 100px;
+    left: 10px;
+}
+body {
+    transition: background 0.5s ease-in, color 0.51s ease-in;
+}
+.dark-mode {
+    color: white;
+    background: black;
+}
