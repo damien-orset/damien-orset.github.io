@@ -24,7 +24,7 @@ Voici la liste des clients chez qui j'ai pu intervenir
           <td>{{ client.date }}</td>
           <td><img src="/assets/images/customer/{{ client.name }}.png" style="max-width: 100px;"/></td>
           <td>{{ client.vertical }}</td>
-          <td>{{ client.description }}</td>
+          <td>{{ client.description[page.lang] }}</td>
           <td>{{ client.job }}</td>
         </tr>
         {% endfor %}

@@ -55,6 +55,8 @@
   job: Developer
 - name: FDJ
   description: 
+    fr: Entreprise francaise de jeux et paris en ligne, reconnue mondialement pour son expertise sur la loterie en ligne et gérant des systèmes de jeu toujours plus complexes 
+    us: French public gambling and bets company, recognized worldwide for its expertise in online lottery and managing ever more complex gaming systems
   vertical: gaming
   date: 2021
   job: Big Data Architect
@@ -85,9 +87,11 @@
   job: Big Data Architect
 - name: Polytech
   description: 
+    fr: Ecole polytechnique de Nice spécialisée dans l'informatique et les sciences des données (IA)
+    us: French engineer school, Ecole polytechnique de Nice, specialized in informatic and data sciences (AI)
   vertical: School
   date: 2022
-  job: MLOps Consultant
+  job: MLOps Consultant (teacher)
 - name: PSABanque
   description: 
   vertical: Finance
@@ -105,11 +109,15 @@
   job: Cloud Architect
 - name: VDM
   description: 
+    fr: Service informatique de la Ville de Marseille responsable de développer, de déployer et d'opérer les différents services de la ville
+    us: IT services of the Marseille city, in charge of developping, deploying and operating all the services of the city
   vertical: Public
   date: 2021
   job: Cloud Architect
 - name: Veolia
   description: 
+    fr: Leader dans la gestion du cycle de vie de l'eau, des dechets et de l'energie, elle ambitionne de devenir une leader mondial de la transformation écologique
+    us: A leader in water, waste and energy management domains, it aims to become a world leader in ecological transformation.
   vertical: Energy
   date: 2020
   job: Cloud Architect

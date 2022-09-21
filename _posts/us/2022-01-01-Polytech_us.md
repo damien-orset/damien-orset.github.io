@@ -1,6 +1,6 @@
 ---
 lang: us
-ref: Polytech
+ref: Polytech-MLOps
 
 title: Formation MLOps
 type: project
@@ -22,6 +22,8 @@ Creation of the course
 - Content: data platform, data pipeline, ML governance, event processing & serving, CICD, ML monitoring
 
 # Examples of my work
+{% capture folder_path %}/assets/images/customer/{{ page.ref }}{% endcapture %}
+{% include image-gallery.html folder=folder_path %}
 
 # Technical environnement
 MLFlow, Kubeflow, Kubernetes, Spark

@@ -65,6 +65,16 @@ description: >-
 
 ## Other
 
+2018: Sophia Connected Objects Trophy (TOCS)
+
+Design award + Audience award for our WellNest connected box
+
+"Wellnest is an autonomous, discreet and stylish box to place in an environment in order to monitor its quality (noise pollution, brightness, air quality, etc.)."
+
+Sources :
+- [Press release](http://www.sofab.tv/2018/07/dry-it-yourself-remporte-la-3eme-edition-3-autres-projets-primes/)
+- [Présentation](https://youtu.be/gkcNFQsuiCQ?t=461)
+
 Scholarship : Engineer, Ecole Centrale Marseille, 2011
 
 :fr: native

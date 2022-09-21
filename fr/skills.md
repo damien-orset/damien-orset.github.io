@@ -57,6 +57,16 @@ ref: skills
 
 ## Autres
 
+2018 : Trophée des Objets Connecté de Sophia (TOCS)
+
+Prix du design + Prix du public pour notre boitier connecté WellNest 
+
+"Wellnest est un boitier autonome, discret et design à poser dans un environnement afin d’en monitorer la qualité (nuisance sonore, luminosité, qualité de l’air, etc)."
+
+Sources :
+- [Communiqué de presse](http://www.sofab.tv/2018/07/dry-it-yourself-remporte-la-3eme-edition-3-autres-projets-primes/)
+- [Vidéo de présentation](https://youtu.be/gkcNFQsuiCQ?t=461)
+
 Formation : Ingénieur généraliste, Ecole Centrale Marseille, 2011
 
 :fr: maternel

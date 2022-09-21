@@ -1,6 +1,6 @@
 ---
 lang: us
-ref: sncf-surete
+ref: SNCF-surete
 
 title: SNCF Surete
 type: project
@@ -22,6 +22,8 @@ Definition of rules in the Ipsotek engine.
 Transmission of alarms to the VMS Genetec.
 
 # Examples of my work
+{% capture folder_path %}/assets/images/customer/{{ page.ref }}{% endcapture %}
+{% include image-gallery.html folder=folder_path %}
 
 # Technical environnement
 Ipsotek VISuite, PowerEdge, Genetec

@@ -33,6 +33,8 @@ Migration iso-fonctionnelle d’un applicatif BigData/IA sur la tranquillité pu
 - Portabilité des règles de sécurité sur la data
 
 # Exemples de productions
+{% capture folder_path %}/assets/images/customer/{{ page.ref }}{% endcapture %}
+{% include image-gallery.html folder=folder_path %}
 
 # Environnement technique
 MinIO, ClickHouse, Spark, Superset, Keycloack, ArgoCD, Gitlab

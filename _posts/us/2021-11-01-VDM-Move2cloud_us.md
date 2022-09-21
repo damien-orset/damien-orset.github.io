@@ -33,6 +33,8 @@ Iso-functional migration of a BigData/IA application on public tranquility (MPul
 - Portability of data security rules
 
 # Examples of my work
+{% capture folder_path %}/assets/images/customer/{{ page.ref }}{% endcapture %}
+{% include image-gallery.html folder=folder_path %}
 
 # Technical environnement
 MinIO, ClickHouse, Spark, Superset, Keycloack, ArgoCD, Gitlab

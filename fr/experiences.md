@@ -59,6 +59,8 @@ ref: experiences
             <td>{{ post.date_start | date: "%b%y" }}<br>{{ post.date_end | date: "%b%y" }}
               {% if post.date_end %}
                 <br>({{ date_end_timestamp | minus: date_start_timestamp | divided_by: 2592000}}m)
+              {% else %}
+                <br>({{ "today" | date: "%s" | minus: date_start_timestamp | divided_by: 2592000}}m)
               {% endif %}
             </td>
             <td>{{ post.job }}</td>

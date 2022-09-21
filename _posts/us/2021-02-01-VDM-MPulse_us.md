@@ -32,6 +32,8 @@ Construction of the Move2Cloud roadmap for the city of Marseille
 Management of a POC on Google My Business data to technically illustrate some bricks of this new Data Platform
 
 # Examples of my work
+{% capture folder_path %}/assets/images/customer/{{ page.ref }}{% endcapture %}
+{% include image-gallery.html folder=folder_path %}
 
 # Technical environnement
 Spark, Impala, Tomcat, Angular, MinIO, ClickHouse, Kafka, Gravitee.io

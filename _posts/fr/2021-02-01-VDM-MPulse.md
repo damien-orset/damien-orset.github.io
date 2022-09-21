@@ -32,6 +32,8 @@ Construction de la roadmap Move2Cloud de la ville de Marseille
 Pilotage d’un POC sur les données Google My Business pour illustrer techniquement quelques briques de cette nouvelle Data Platform
 
 # Exemples de productions
+{% capture folder_path %}/assets/images/customer/{{ page.ref }}{% endcapture %}
+{% include image-gallery.html folder=folder_path %}
 
 # Environnement technique
 Spark, Impala, Tomcat, Angular, MinIO, ClickHouse, Kafka, Gravitee.io
