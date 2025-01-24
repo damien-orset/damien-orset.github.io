@@ -4,7 +4,7 @@ ref: euromaster
 
 title: Euromaster
 type: project
-client: euromaster
+client: Euromaster
 job: Desarrollador 
 date_start: 2012-08-01
 date_end: 2012-09-31
