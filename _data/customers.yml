@@ -1,123 +1,200 @@
 - name: ACOSS
   description: 
+    fr: Administration centrale des organismes de sécurité sociale, responsable de la gestion des cotisations et contributions sociales en France.
+    us: Central administration of social security organizations, responsible for managing social contributions and payments in France.
+    es: Administración central de los organismos de seguridad social, responsable de la gestión de las cotizaciones y contribuciones sociales en Francia.
   vertical: Health
   date: 2020
   job: Big Data Architect
 - name: Alinea
   description: 
+    fr: Chaîne française de magasins de meubles et de décoration, offrant une large gamme de produits pour la maison.
+    us: French chain of furniture and decoration stores, offering a wide range of home products.
+    es: Cadena francesa de tiendas de muebles y decoración, que ofrece una amplia gama de productos para el hogar.
   vertical: Retail
   date: 2019
   job: Cloud Architect
 - name: Atos
   description: 
+    fr: Société multinationale de services numériques, spécialisée dans la transformation digitale et les solutions technologiques.
+    us: Multinational digital services company, specializing in digital transformation and technology solutions.
+    es: Empresa multinacional de servicios digitales, especializada en transformación digital y soluciones tecnológicas.
   vertical: Service
   date: 2017
   job: Big Data Architect, Cloud Architect, AI Expert
 - name: Auchan
   description: 
+    fr: Groupe de distribution français, opérant dans le secteur de la grande distribution avec des hypermarchés et supermarchés.
+    us: French retail group, operating in the hypermarket and supermarket sectors.
+    es: Grupo de distribución francés, operando en el sector de hipermercados y supermercados.
   vertical: Retail
   date: 2018
   job: Cloud Architect
 - name: CapsAuto
   description: 
+    fr: Entreprise spécialisée dans la gestion de sinistres automobiles et la réparation de véhicules.
+    us: Company specialized in automotive claims management and vehicle repair.
+    es: Empresa especializada en la gestión de siniestros automovilísticos y reparación de vehículos.
   vertical: Service
   date: 2011
   job: ETL Consultant
 - name: CGI
   description: 
+    fr: Société canadienne de services en technologies de l'information et en gestion des processus d'affaires.
+    us: Canadian company providing information technology and business process services.
+    es: Empresa canadiense que ofrece servicios de tecnología de la información y gestión de procesos empresariales.
   vertical: Service
   date: 2011
   job: ETL Consultant
 - name: CNAF
   description: 
+    fr: Caisse nationale des allocations familiales, gérant les prestations familiales en France.
+    us: National Family Allowances Fund, managing family benefits in France.
+    es: Caja Nacional de Asignaciones Familiares, gestionando las prestaciones familiares en Francia.
   vertical: Public
   date: 2018
   job: Big Data Architect
 - name: COJO
   description: 
+    fr: Comité d'organisation des Jeux Olympiques, responsable de la planification et de l'exécution des Jeux.
+    us: Olympic Games Organizing Committee, responsible for planning and executing the Games.
+    es: Comité Organizador de los Juegos Olímpicos, responsable de la planificación y ejecución de los Juegos.
   vertical: Sport
   date: 2019
   job: Big Data Architect
 - name: EFA
   description: 
+    fr: Entreprise spécialisée dans la gestion d'actifs financiers et les services de fonds d'investissement.
+    us: Company specialized in financial asset management and investment fund services.
+    es: Empresa especializada en la gestión de activos financieros y servicios de fondos de inversión.
   vertical: Finance
   date: 2014
   job: ETL Consultant
 - name: Enedis
   description: 
+    fr: Gestionnaire du réseau de distribution d'électricité en France, assurant la maintenance et le développement du réseau.
+    us: Manager of the electricity distribution network in France, ensuring maintenance and development of the network.
+    es: Gestor de la red de distribución eléctrica en Francia, asegurando el mantenimiento y desarrollo de la red.
   vertical: Energy
   date: 2016
   job: Technical Expert
 - name: Euromaster
   description: 
+    fr: Réseau européen de centres de services automobiles, spécialisé dans les pneus et l'entretien des véhicules.
+    us: European network of automotive service centers, specializing in tires and vehicle maintenance.
+    es: Red europea de centros de servicios automotrices, especializada en neumáticos y mantenimiento de vehículos.
   vertical: Automotive
   date: 2012
   job: Developer
+- name: Eviden
+  description: 
+    fr: Société de services numériques, offrant des solutions innovantes en matière de données et de cloud.
+    us: Digital services company, offering innovative data and cloud solutions.
+    es: Empresa de servicios digitales, ofreciendo soluciones innovadoras en datos y nube.
+  vertical: Service
+  date: 2022
+  job: Data Architect, Cloud Architect, AI Expert
 - name: FDJ
   description: 
-    fr: Entreprise francaise de jeux et paris en ligne, reconnue mondialement pour son expertise sur la loterie en ligne et gérant des systèmes de jeu toujours plus complexes 
-    us: French public gambling and bets company, recognized worldwide for its expertise in online lottery and managing ever more complex gaming systems
-  vertical: gaming
+    fr: Entreprise française de jeux et paris en ligne, reconnue mondialement pour son expertise sur la loterie en ligne et gérant des systèmes de jeu toujours plus complexes.
+    us: French public gambling and bets company, recognized worldwide for its expertise in online lottery and managing ever more complex gaming systems.
+    es: Empresa francesa de juegos y apuestas en línea, reconocida mundialmente por su experiencia en loterías en línea y gestión de sistemas de juego cada vez más complejos.
+  vertical: Gaming
   date: 2021
   job: Big Data Architect
 - name: LaPoste
   description: 
+    fr: Opérateur postal français, offrant des services de courrier, colis, banque et télécommunications.
+    us: French postal operator, offering mail, parcel, banking, and telecommunications services.
+    es: Operador postal francés, ofreciendo servicios de correo, paquetería, banca y telecomunicaciones.
   vertical: Public
   date: 2019
   job: Big Data Architect
 - name: LVMH
   description: 
+    fr: Leader mondial dans le secteur du luxe, regroupant des marques prestigieuses dans la mode, les cosmétiques, et les spiritueux.
+    us: World leader in the luxury sector, encompassing prestigious brands in fashion, cosmetics, and spirits.
+    es: Líder mundial en el sector del lujo, agrupando marcas prestigiosas en moda, cosméticos y licores.
   vertical: Luxury
   date: 2018
   job: Big Data Architect
 - name: MGEN
   description: 
+    fr: Mutuelle générale de l'éducation nationale, offrant des services de santé et de prévoyance aux professionnels de l'éducation.
+    us: General mutual insurance for national education, offering health and welfare services to education professionals.
+    es: Mutualidad general de la educación nacional, ofreciendo servicios de salud y previsión a los profesionales de la educación.
   vertical: Health
   date: 2019
   job: Big Data Architect
 - name: Michelin
   description: 
+    fr: Fabricant de pneus français, reconnu pour ses innovations dans le domaine de la mobilité durable.
+    us: French tire manufacturer, recognized for its innovations in sustainable mobility.
+    es: Fabricante de neumáticos francés, reconocido por sus innovaciones en movilidad sostenible.
   vertical: Automotive
   date: 2015
   job: ETL Consultant
 - name: NavalGroup
   description: 
+    fr: Leader européen dans la construction navale militaire, fournissant des solutions de défense maritime.
+    us: European leader in military shipbuilding, providing maritime defense solutions.
+    es: Líder europeo en construcción naval militar, proporcionando soluciones de defensa marítima.
   vertical: Defense
   date: 2018
   job: Big Data Architect
+- name: Orange-Caraibes
+  description: 
+    fr: Filiale d'Orange opérant dans les Caraïbes, offrant des services de télécommunications et d'internet.
+    us: Orange subsidiary operating in the Caribbean, offering telecommunications and internet services.
+    es: Filial de Orange operando en el Caribe, ofreciendo servicios de telecomunicaciones e internet.
+  vertical: Telco
+  date: 2023
+  job: Data Architect
 - name: Polytech
   description: 
-    fr: Ecole polytechnique de Nice spécialisée dans l'informatique et les sciences des données (IA)
-    us: French engineer school, Ecole polytechnique de Nice, specialized in informatic and data sciences (AI)
+    fr: Ecole polytechnique de Nice spécialisée dans l'informatique et les sciences des données (IA).
+    us: French engineer school, Ecole polytechnique de Nice, specialized in informatic and data sciences (AI).
+    es: Escuela de ingeniería francesa, Ecole polytechnique de Nice, especializada en informática y ciencias de datos (IA).
   vertical: School
   date: 2022
   job: MLOps Consultant (teacher)
 - name: PSABanque
   description: 
+    fr: Banque spécialisée dans le financement automobile, offrant des solutions de crédit et de leasing.
+    us: Bank specialized in automotive financing, offering credit and leasing solutions.
+    es: Banco especializado en financiación automotriz, ofreciendo soluciones de crédito y leasing.
   vertical: Finance
   date: 2018
   job: Big Data Architect
 - name: SNCF
   description: 
+    fr: Société nationale des chemins de fer français, opérant le réseau ferroviaire en France.
+    us: French National Railway Company, operating the rail network in France.
+    es: Compañía Nacional de Ferrocarriles Franceses, operando la red ferroviaria en Francia.
   vertical: Transport
   date: 2012
   job: ETL Consultant
 - name: Stelia
   description: 
+    fr: Filiale d'Airbus spécialisée dans la fabrication de structures aéronautiques et de sièges d'avion.
+    us: Airbus subsidiary specialized in manufacturing aeronautical structures and aircraft seats.
+    es: Filial de Airbus especializada en la fabricación de estructuras aeronáuticas y asientos de avión.
   vertical: Transport
   date: 2018
   job: Cloud Architect
 - name: VDM
   description: 
-    fr: Service informatique de la Ville de Marseille responsable de développer, de déployer et d'opérer les différents services de la ville
-    us: IT services of the Marseille city, in charge of developping, deploying and operating all the services of the city
+    fr: Service informatique de la Ville de Marseille responsable de développer, de déployer et d'opérer les différents services de la ville.
+    us: IT services of the Marseille city, in charge of developing, deploying and operating all the services of the city.
+    es: Servicios informáticos de la ciudad de Marsella, encargados de desarrollar, desplegar y operar todos los servicios de la ciudad.
   vertical: Public
   date: 2021
   job: Cloud Architect
 - name: Veolia
   description: 
-    fr: Leader dans la gestion du cycle de vie de l'eau, des dechets et de l'energie, elle ambitionne de devenir une leader mondial de la transformation écologique
+    fr: Leader dans la gestion du cycle de vie de l'eau, des déchets et de l'énergie, elle ambitionne de devenir une leader mondial de la transformation écologique.
     us: A leader in water, waste and energy management domains, it aims to become a world leader in ecological transformation.
+    es: Líder en la gestión del ciclo de vida del agua, los residuos y la energía, aspira a convertirse en un líder mundial en transformación ecológica.
   vertical: Energy
   date: 2020
   job: Cloud Architect

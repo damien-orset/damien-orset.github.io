@@ -66,7 +66,7 @@
       knowledge: 4
       interest: 4
       active: True
-      ref: veolia
+      ref: OCA
     - name: Azure
       knowledge: 3
       interest: 3
@@ -101,7 +101,7 @@
       knowledge: 4
       interest: 5
       active: True
-      ref: FDJ
+      ref: FDJ-datalake
     - name: Talend
       knowledge: 4
       interest: 1

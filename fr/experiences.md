@@ -31,7 +31,7 @@ ref: experiences
             </td>
             <td>{{ post.job }}</td>
             <td>{{ post.description | truncate: 200 }} - <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">voir plus</a></td>
-            <td style="text-align: center;">{% for tech in post.technos %}<img src="/assets/images/skills/{{ tech }}.png" alt="{{ tech }}" style="max-width: 50px; max-height: 50px; margin: 5px"/>{% endfor %}</td>
+            <td style="text-align: center;">{% for tech in post.technos %}<img src="/assets/images/skills/{{ tech }}.png" title="{{ tech }}" alt="{{ tech }}" style="max-width: 50px; max-height: 50px; margin: 5px"/>{% endfor %}</td>
         </tr>
         {% endfor %}
     </tbody>
@@ -65,7 +65,7 @@ ref: experiences
             </td>
             <td>{{ post.job }}</td>
             <td>{{ post.description | truncate: 200 }} - <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">voir plus</a></td>
-            <td style="text-align: center;">{% for tech in post.technos %}<img src="/assets/images/skills/{{ tech }}.png" alt="{{ tech }}" style="max-width: 50px; max-height: 50px; margin: 5px"/>{% endfor %}</td>
+            <td style="text-align: center;">{% for tech in post.technos %}<img src="/assets/images/skills/{{ tech }}.png" title="{{ tech }}" alt="{{ tech }}" style="max-width: 50px; max-height: 50px; margin: 5px"/>{% endfor %}</td>
         </tr>
         {% endfor %}
     </tbody>

@@ -11,18 +11,38 @@ description: >-
 
 # Me and my hobbies
 
-## Earth
-- Mountain hiking
-- Gardening
-- Basket-ball
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
 
-## Air
-- Paragliding
+  <div class="card">
+    <h3>Earth</h3>
+    <ul>
+      <li>Mountain hiking</li>
+      <li>Gardening</li>
+      <li>Basket-ball</li>
+    </ul>
+  </div>
 
-## Water
-- Swimming
-- Diving
-- Kite-surfing
+  <div class="card">
+    <h3>Wind</h3>
+    <ul>
+      <li>Paragliding</li>
+    </ul>
+  </div>
 
-## Fire
-- DIY
+  <div class="card">
+    <h3>Water</h3>
+    <ul>
+      <li>Swimming</li>
+      <li>Diving</li>
+      <li>Kite-surfing</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h3>Fire</h3>
+    <ul>
+      <li>DIY</li>
+    </ul>
+  </div>
+
+</div>

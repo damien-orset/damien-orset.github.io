@@ -24,7 +24,7 @@ ref: skills
 ## Techniques
 
 <table>
-    <thead><tr><th></th><th>Techno</th><th>Niveau</th><th>Référence</th></tr></thead>
+    <thead><tr><th></th><th>Techno</th><th>Niveau</th><th>Dernière référence</th></tr></thead>
     <tbody>
         {% assign skills=site.data.skills | where:"type", "tech" %}
         {% assign skills_sorted=skills[0].list | sort: "interest" | reverse %}

@@ -7,7 +7,7 @@ type: project
 client: Polytech
 job: Consultant MLOps
 date_start: 2022-01-01
-date_end: 
+date_end: 2023-03-01
 description: Construction of a 20-hour "AI Industrialization" course for final year students in the Data Science specialty
 technos:
   - MLFlow

@@ -6,9 +6,7 @@ description: >-
     Driven by my technical curiosity, I bring my experience and expertise to my clients, to support them in their digital transformation.
     I build data architectures and shares my vision through big data consulting missions to my clients.
     Autonomous, perseverant and deeply adaptable, I can intervene on various technological domains and tasks.
-
     I am passionate about technology and enjoy sharing my discoveries.
-
 ---
 
 # My Skills
@@ -32,7 +30,7 @@ description: >-
 ## Technical
 
 <table>
-    <thead><tr><th></th><th>Techno</th><th>Level</th><th>Reference</th></tr></thead>
+    <thead><tr><th></th><th>Techno</th><th>Level</th><th>Latest reference</th></tr></thead>
     <tbody>
         {% assign skills=site.data.skills | where:"type", "tech" %}
         {% assign skills_sorted=skills[0].list | sort: "interest" | reverse %}

@@ -8,7 +8,7 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 #gem "jekyll", "~> 4.2.2"
-gem "github-pages", "~> 227", group: :jekyll_plugins
+gem "github-pages", "~> 232", group: :jekyll_plugins
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "jekyll-theme-cayman"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
@@ -33,5 +33,7 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
-gem "webrick"
+gem "webrick", "~> 1.8"
 gem "jemoji"
+
+gem "liquid", "~> 4.0.4"
